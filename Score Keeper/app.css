@@ -1,0 +1,17 @@
+header, main, footer {
+    width: 500px;
+    text-align: center;
+    border: 3px solid #edf3f5;
+    margin-left: auto;
+    margin-right: auto;
+}
+header {
+    border-top: 0;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
